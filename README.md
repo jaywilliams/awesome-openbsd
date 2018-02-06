@@ -23,6 +23,8 @@
 * [OpenIKED](http://www.openiked.org/) - free implementation of the Internet Key Exchange (IKEv2) protocol
 * [mandoc](http://mdocml.bsd.lv/) - free UNIX manpage compiler toolset
 * [OpenBSD git mirrors](https://github.com/openbsd/) - OpenBSD CVS repository conversions for public consumpiton (managed by OpenBSD hackers)
+* [OpenBSD Testing Infrastructure](http://bluhm.genua.de/) -  infrastructure for semi-automatic testing of source code
+changes
 
 ## Non-official OpenBSD websites
 
