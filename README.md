@@ -117,6 +117,7 @@ changes
 * [OpenBSD bitbucket mirror](https://bitbucket.org/braindamaged/openbsd-src) - using mercurial
 * [Reyk Floeter repos](https://github.com/reyk) - httpd, openiked, relayd, snmpd
 * [snap, an OpenBSD upgrade tool](https://github.com/qbit/snap)
+* [upobsd](https://bitbucket.org/semarie/upobsd/) - download, verify and patch bsd.rd image
 * [awesome pledge(2)](https://github.com/PeterTonoli/awesome-pledge)
 * [OpenSMTPD official mirror and extra repos](https://github.com/opensmtpd)
 * [AWS-OpenBSD](https://github.com/ajacoutot/aws-openbsd) - AWS playground for OpenBSD kids
