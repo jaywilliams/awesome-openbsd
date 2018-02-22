@@ -18,7 +18,7 @@
 * [OpenSSH](http://www.openssh.com/) - the premier connectivity tool for remote login with the SSH protocol
 * [LibreSSL](http://www.libressl.org/) - a version of the TLS/crypto stack forked from OpenSSL in 2014, with goals of modernizing the codebase, improving security, and applying best practice development processes
 * [OpenNTPD](http://www.openntpd.org/) - free and easy to use implementation of the Network Time Protocol
-* [OpenSMTPD](https://www.opensmtpd.org/) - free implementation of the server-side SMTP protocol as defined by RFC 5321, with some additional standard extensions
+* [OpenSMTPD](https://www.opensmtpd.org/) - free implementation of the server-side SMTP protocol as defined by RFC 5321, with some additional standard extensions - [OpenSMTPD-extras](https://github.com/OpenSMTPD/OpenSMTPD-extras)
 * [OpenBGPD](http://www.openbgpd.org/) - free implementation of the Border Gateway Protocol, Version 4
 * [OpenIKED](http://www.openiked.org/) - free implementation of the Internet Key Exchange (IKEv2) protocol
 * [mandoc](http://mdocml.bsd.lv/) - free UNIX manpage compiler toolset
