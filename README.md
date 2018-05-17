@@ -25,6 +25,7 @@
 * [OpenBSD git mirrors](https://github.com/openbsd/) - OpenBSD CVS repository conversions for public consumpiton (managed by OpenBSD hackers)
 * [OpenBSD Testing Infrastructure](http://bluhm.genua.de/) -  infrastructure for semi-automatic testing of source code
 changes
+* [portroach](https://portroach.openbsd.org/) - OpenBSD Ports Distfile Scanner ([code](https://github.com/jasperla/portroach))
 
 ## Non-official OpenBSD websites
 
