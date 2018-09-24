@@ -45,7 +45,7 @@ changes
 * [vedetta](https://github.com/vedetta-com/vedetta) - OpenBSD Router Boilerplate
 * [Multicast Proxy for OpenBSD](https://github.com/Esdenera/mcast-proxy) from [Esdenera](https://www.esdenera.com/)
 
-## Articles
+## Selected articles
 
 * [Keeping Your OpenBSD System In Trim: A Works For Me Guide](http://bsdly.blogspot.com/2012/07/keeping-your-openbsd-system-in-trim.html)
 * [OpenBSD Workstation Guide](https://begriffs.com/posts/2017-05-17-openbsd-workstation-guide.html)
@@ -65,7 +65,7 @@ changes
 * [OpenBSD on Soekris](http://wiki.soekris.info/Installing_OpenBSD)
 * [Getting OpenBSD running on Raspberry Pi 3](http://undeadly.org/cgi?action=article&sid=20170409123528)
 * [A simple first server](http://blog.hermes-technology.de/openbsd/server/2017/06/06/a-first-server.html) - A series of posts about OpenBSD server configuration for learning purposes
-* [Nan Xiao's Blog: OpenBSD posts](http://nanxiao.me/en/tag/openbsd/) - A system software / performance engineer's blog
+
  
 ## Blogs
 
@@ -74,6 +74,7 @@ changes
 * [Joshua Stein](https://jcs.org/)
 * [Antoine Jacoutot](https://www.bsdfrog.org/)
 * [Adam Wołk](https://blog.tintagel.pl/)
+* [Nan Xiao](http://nanxiao.me/en/tag/openbsd/)
 
 ## News & forums
 
