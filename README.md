@@ -46,6 +46,10 @@ changes
 * [Multicast Proxy for OpenBSD](https://github.com/Esdenera/mcast-proxy) from [Esdenera](https://www.esdenera.com/)
 * [#BSDjobs](https://www.bsdjobs.com/) - BSD related job board
 
+## Hosting
+
+* [OpenBSD Amsterdam](https://openbsd.amsterdam/) - very cheap OpenBSD VMs
+
 ## Selected articles
 
 * [Keeping Your OpenBSD System In Trim: A Works For Me Guide](http://bsdly.blogspot.com/2012/07/keeping-your-openbsd-system-in-trim.html)
