@@ -108,6 +108,13 @@ changes
 * [@mpotd_openbsd](https://twitter.com/mpotd_openbsd) - Man Page of The Day
 * [@romanzolotarev](https://twitter.com/romanzolotarev) - lots of good advice
 
+## Mastodon ([bsd.network](https://bsd.network/) instance)
+
+* [@phessler](https://bsd.network/@phessler) - bsd.network's admin
+* [@AFresh1](https://bsd.network/@AFresh1)
+* [@bcallah](https://bsd.network/@bcallah)
+* [@romanzolotarev](https://bsd.network/@romanzolotarev)
+
 ## Telegram Groups
 
 * [OpenBSD Jumpstart](https://t.me/joinchat/EzTjLQuG8Mcj89LYcDGKiQ) from the [OpenBSD Jumpstart](http://www.openbsdjumpstart.org/) author
