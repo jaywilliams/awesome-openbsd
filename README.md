@@ -44,6 +44,7 @@ changes
 * [OpenBSD QA wiki](https://github.com/ligurio/openbsd-tests/wiki)
 * [vedetta](https://github.com/vedetta-com/vedetta) - OpenBSD Router Boilerplate
 * [Multicast Proxy for OpenBSD](https://github.com/Esdenera/mcast-proxy) from [Esdenera](https://www.esdenera.com/)
+* [#BSDjobs](https://www.bsdjobs.com/) - BSD related job board
 
 ## Selected articles
 
@@ -75,6 +76,7 @@ changes
 * [Antoine Jacoutot](https://www.bsdfrog.org/)
 * [Adam Wołk](https://blog.tintagel.pl/)
 * [Nan Xiao](http://nanxiao.me/en/tag/openbsd/)
+* [Roman Zolotarev](https://www.romanzolotarev.com/openbsd/)
 
 ## News & forums
 
@@ -93,6 +95,7 @@ changes
   * [openbsd-ports](http://marc.info/?l=openbsd-ports)
   * [openbsd-misc](http://marc.info/?l=openbsd-misc)
 * [OpenBSD weekly/daily changes list](http://www.squish.net/log/openbsd-source-changes/)
+* [Mastering the web](https://www.romanzolotarev.com/n/) - Zolotarev's newsletter with lots of goodies
 
 ## IRC
 
@@ -105,6 +108,7 @@ changes
 * [@OpenSMTPD](https://twitter.com/opensmtpd)
 * [@OpenBSDNow](https://twitter.com/openbsdnow) - OpenBSD News & Updates
 * [@mpotd_openbsd](https://twitter.com/mpotd_openbsd) - Man Page of The Day
+* [@romanzolotarev](https://twitter.com/romanzolotarev) - lots of good advice
 
 ## Telegram Groups
 
