@@ -99,7 +99,7 @@ changes
 
 ## IRC
 
-* [#OpenBSD](ircs://irc.freenode.net:6697/openbsd)
+* [#OpenBSD](https://webchat.freenode.net/#openbsd) (Freenode)
 
 ## Twitter
 
