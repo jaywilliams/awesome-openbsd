@@ -82,6 +82,7 @@ changes
 * [Adam Wołk](https://blog.tintagel.pl/)
 * [Nan Xiao](http://nanxiao.me/en/tag/openbsd/)
 * [Roman Zolotarev](https://www.romanzolotarev.com/openbsd/)
+* [Daniel Jakots](https://chown.me/)
 
 ## News & forums
 
