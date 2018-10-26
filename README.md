@@ -88,7 +88,7 @@ changes
 ## News & forums
 
 * [Undeadly](http://undeadly.org/) - OpenBSD Journal
-* [Planet OpenBSD](http://openbsdnow.org/)
+* [Planet OpenBSD](http://openbsdnow.org/) - [src repo](https://github.com/ligurio/openbsdnow.org)
 * [Lobsters OpenBSD tag](https://lobste.rs/t/openbsd)
 * [reddit community](http://reddit.com/r/openbsd/)
 * [Google Plus community](https://plus.google.com/communities/113634135604793474364)
