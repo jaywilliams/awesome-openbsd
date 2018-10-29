@@ -156,5 +156,6 @@ Dotfiles and config files for use with OpenBSD on a desktop or laptop
 * [LibreSSL Portable](https://github.com/libressl-portable/portable)
 * [cwm(1) portable](https://github.com/chneukirchen/cwm) - portable version of OpenBSD's cwm(1) window manager
 * [A portable version of the OpenBSD `doas` command](https://github.com/Duncaen/OpenDoas)
+* [A Portable version OpenBSD's ksh](https://github.com/ibara/oksh)
 * [A Linux port of OpenBSD's ksh](https://github.com/dimkr/loksh)
 * [A portable version of OpenBSD's privsep/sandboxed file(1)](https://github.com/brynet/file)
